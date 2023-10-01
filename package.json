@@ -1,5 +1,5 @@
 {
-  "name": "@react/model-viewer",
+  "name": "@lamkoti/react-model-viewer",
   "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
